@@ -177,3 +177,6 @@
 img {
   vertical-align: middle;
 }
+.content_list_item::marker {
+  content: url("coffee-bean-for-a-coffee-break.png");
+}
